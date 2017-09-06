@@ -8,7 +8,6 @@
       "dateToWhichTheContractIsUpdated": "2017-10-20",
       "companyShortName": "Lerch AG",
       "companyCityName": "Zürich",
-
       "socialSecurityNumber": "7561234567897",
       "socialSecurityNumberOldScheme": "6740031121",
       "socialSecurityNumberFL":	"123452458973",
@@ -20,7 +19,6 @@
       "isInsuredPersonWantsPaper": 1,
       "isInsuredPersonWantsAdvertisements":	1,
       "isInsuredPersonWantsOfferings": 1,
-        
       "personalPensionPlan": [ 
         {
           "validFrom": "2017-06-25",
