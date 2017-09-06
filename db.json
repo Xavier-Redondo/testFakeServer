@@ -1,0 +1,13 @@
+{
+  "pension-information": [
+    {
+      "id": "EA9688EF-5612-4D72-9567-DD1AFBD1DCE4", 
+      "fullContracNumberGroupLife": "contract-number-1",
+      "lineOfBusinessGroupLife": "xyz",
+      "contractNumberGroupLife": "2",
+      "dateToWhichTheContractIsUpdated": "2017-10-20",
+      "companyShortName": "Lerch AG",
+      "companyCityName": "Zürich"
+    }  
+  ]
+}
