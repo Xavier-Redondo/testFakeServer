@@ -7,7 +7,31 @@
       "contractNumberGroupLife": "2",
       "dateToWhichTheContractIsUpdated": "2017-10-20",
       "companyShortName": "Lerch AG",
-      "companyCityName": "Zürich"
+      "companyCityName": "Zürich",
+
+      "socialSecurityNumber": "7561234567897",
+      "socialSecurityNumberOldScheme": "6740031121",
+      "socialSecurityNumberFL":	"123452458973",
+      "genderCdu": 1,
+      "dateOfBirth": "1977-07-15",
+      "lastname":	"Miller",
+      "firstname": "Frank",
+      "registrationStatusCdkwn": 1,
+      "isInsuredPersonWantsPaper": 1,
+      "isInsuredPersonWantsAdvertisements":	1,
+      "isInsuredPersonWantsOfferings": 1,
+        
+      "personalPensionPlan": [ 
+        {
+          "validFrom": "2017-06-25",
+          "validTo": "2017-06-25",
+          "personalPensionPlanId": "110152816",
+          "pensionPlanNumber": 1,
+          "lawSubordinationCode":	2,
+          "isEarlyRetirementAllowed":	1,
+          "retirementMinimalAge":	58
+        }
+      ]
     }  
   ]
 }
