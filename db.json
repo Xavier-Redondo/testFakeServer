@@ -4,7 +4,7 @@
       "id": "EA9688EF-5612-4D72-9567-DD1AFBD1DCE4", 
       "fullContracNumberGroupLife": "contract-number-1",
       "lineOfBusinessGroupLife": "xyz",
-      "contractNumberGroupLife": "2",
+      "contractNumberGroupLife": "1",
       "dateToWhichTheContractIsUpdated": "2017-10-20",
       "companyShortName": "Lerch AG",
       "companyCityName": "Zürich",
@@ -30,6 +30,60 @@
           "retirementMinimalAge":	58
         }
       ]
-    }  
+    }, {
+      "id": "622CBA3B-882E-446B-BF22-C832C3A6B3B8", 
+      "fullContracNumberGroupLife": "contract-number-2",
+      "lineOfBusinessGroupLife": "xyz",
+      "contractNumberGroupLife": "2",
+      "dateToWhichTheContractIsUpdated": "2017-10-20",
+      "companyShortName": "Lerch AG",
+      "companyCityName": "Zürich",
+      "socialSecurityNumber": "7561234567896",
+      "socialSecurityNumberOldScheme": "67400311201",
+      "socialSecurityNumberFL":	"123452458923",
+      "genderCdu": 2,
+      "dateOfBirth": "1977-07-15",
+      "lastname":	"Neil",
+      "firstname": "Gayman",
+      "registrationStatusCdkwn": 1,
+      "isInsuredPersonWantsPaper": 1,
+      "isInsuredPersonWantsAdvertisements":	1,
+      "isInsuredPersonWantsOfferings": 1,
+      "personalPensionPlan": [ 
+        {
+          "validFrom": "2012-06-25",
+          "validTo": "2016-06-25",
+          "personalPensionPlanId": "110152816",
+          "pensionPlanNumber": 1,
+          "lawSubordinationCode":	2,
+          "isEarlyRetirementAllowed":	1,
+          "retirementMinimalAge":	58
+        }, {
+          "validFrom": "2017-06-25",
+          "validTo": "2017-06-25",
+          "personalPensionPlanId": "110152817",
+          "pensionPlanNumber": 2,
+          "lawSubordinationCode":	2,
+          "isEarlyRetirementAllowed":	1,
+          "retirementMinimalAge":	58
+        }, {
+          "validFrom": "2017-06-25",
+          "validTo": "2017-06-25",
+          "personalPensionPlanId": "110152818",
+          "pensionPlanNumber": 3,
+          "lawSubordinationCode":	2,
+          "isEarlyRetirementAllowed":	1,
+          "retirementMinimalAge":	58
+        }, {
+          "validFrom": "2017-06-25",
+          "validTo": "2017-06-25",
+          "personalPensionPlanId": "110152819",
+          "pensionPlanNumber": 4,
+          "lawSubordinationCode":	2,
+          "isEarlyRetirementAllowed":	1,
+          "retirementMinimalAge":	58
+        }
+      ]
+    }   
   ]
 }
