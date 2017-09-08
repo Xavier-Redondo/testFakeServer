@@ -1,5 +1,5 @@
 {
-  "/coverage-information\\?contracNumberGroupLifeFull=:contracNumberGroupLifeFull\\&personalPensionPlanID=:personalPensionPlanID\\&validOn=:validOn": "/coverage-information/:contracNumberGroupLifeFull/:personalPensionPlanID/:validOn"
+  "/coverage-information\\?contractNumberGroupLifeFull=:contractNumberGroupLifeFull\\&personalPensionPlanID=:personalPensionPlanID\\&validOn=:validOn": "/coverage-information/:contractNumberGroupLifeFull/:personalPensionPlanID/:validOn"
 }
 
 
