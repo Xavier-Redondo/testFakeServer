@@ -77,6 +77,9 @@
         "insuredBenefits": [{
           "insuredBenefitTypeCdkwn": 13,
           "insuredBenefitAmount": 4230.00
+        }, {
+          "insuredBenefitTypeCdkwn": 1,
+          "insuredBenefitAmount": 4230.00
         }],	
         "isCoordinationAccidentInsuranceEnabled":	1,
         "waitingPeriodDisabilityAnnuityChild": 12,
