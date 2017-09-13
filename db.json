@@ -3,7 +3,7 @@
     {
       "id": "622CBA3B-882E-446B-BF22-C832C3A6B3B8", 
       "pensionPlanRegistrationUuid": "622CBA3B-882E-446B-BF22-C832C3A6B3B8", 
-      "fullContractNumberGroupLife": "contract-number-2",
+      "contractNumberGroupLifeFull": "contract-number-2",
       "lineOfBusinessGroupLife": "xyz",
       "contractNumberGroupLife": "2",
       "dateToWhichTheContractIsUpdated": "2017-10-20",
