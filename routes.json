@@ -1,6 +1,5 @@
 {
-  "/coverage-information\\?contractNumberGroupLifeFull=:contractNumberGroupLifeFull\\&personalPensionPlanID=:personalPensionPlanID\\&validOn=:validOn": "/coverage-information/:contractNumberGroupLifeFull/:personalPensionPlanID/:validOn",
-  "/pension-information/:pensionPlanRegistrationUuid": "/pension-information/:pensionPlanRegistrationUuid"
+  "/coverage-information\\?contractNumberGroupLifeFull=:contractNumberGroupLifeFull\\&personalPensionPlanID=:personalPensionPlanID\\&validOn=:validOn": "/coverage-information/:contractNumberGroupLifeFull/:personalPensionPlanID/:validOn"
 }
 
 
