@@ -190,5 +190,82 @@
         "earlyRetirementPurchaseMaxPossible":	63000.00
       }]
     }
+  ],
+  "development-assets": [
+    {
+      "personalPensionPlanID": "110152817",
+      "validFrom": "2017-06-25",
+      "validTo": "2017-06-25",
+      "retirementAssets":	150000.00,
+      "retirementAssetsMandatory":	130000.00,
+      "transaction": [
+        {
+          "valueDate": "2020-06-01",
+          "transactionType": 2,
+          "transactionAmount": 12345.00
+        }, {
+          "valueDate": "2016-06-01",
+          "transactionType": 1,
+          "transactionAmount": 15000.00
+        }, {
+          "valueDate": "2017-02-01",
+          "transactionType": 1,
+          "transactionAmount": 6000.00
+        }, {
+          "valueDate": "2017-12-01",
+          "transactionType": 1,
+          "transactionAmount": 6000.00
+        }, {
+          "valueDate": "2016-06-01",
+          "transactionType": 58,
+          "transactionAmount": 14000.00
+        }, {
+          "valueDate": "2017-02-01",
+          "transactionType": 58,
+          "transactionAmount": 5000.00
+        }, {
+          "valueDate": "2017-12-01",
+          "transactionType": 58,
+          "transactionAmount": 5000.00
+        }
+      ]
+    }, {
+      "personalPensionPlanID": "110152818",
+      "validFrom": "2017-06-25",
+      "validTo": "2017-06-25",
+      "retirementAssets":	150000.00,
+      "retirementAssetsMandatory":	130000.00,
+      "transaction": [
+        {
+          "valueDate": "2020-06-01",
+          "transactionType": 2,
+          "transactionAmount": 12345.00
+        }, {
+          "valueDate": "2016-06-01",
+          "transactionType": 1,
+          "transactionAmount": 15000.00
+        }, {
+          "valueDate": "2017-02-01",
+          "transactionType": 1,
+          "transactionAmount": 6000.00
+        }, {
+          "valueDate": "2017-12-01",
+          "transactionType": 1,
+          "transactionAmount": 6000.00
+        }, {
+          "valueDate": "2016-06-01",
+          "transactionType": 58,
+          "transactionAmount": 14000.00
+        }, {
+          "valueDate": "2017-02-01",
+          "transactionType": 58,
+          "transactionAmount": 5000.00
+        }, {
+          "valueDate": "2017-12-01",
+          "transactionType": 58,
+          "transactionAmount": 5000.00
+        }
+      ]
+    }
   ]
 }
