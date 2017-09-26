@@ -86,14 +86,17 @@
       },
       "benefits": {
         "insuredBenefit": [{
-          "insuredBenefitTypeCdkwn": 13,
+          "insuredBenefitTypeCdkwn": 1,
           "insuredBenefitAmount": 4230.00
-        }, {
-          "insuredBenefitTypeCdkwn": 1,
-          "insuredBenefitAmount": 1000.00
-        }, {
-          "insuredBenefitTypeCdkwn": 1,
-          "insuredBenefitAmount": 500.00
+        },{
+          "insuredBenefitTypeCdkwn": 12,
+          "insuredBenefitAmount": 1222.00
+        },{
+          "insuredBenefitTypeCdkwn": 5,
+          "insuredBenefitAmount": 3333.00
+        },{
+          "insuredBenefitTypeCdkwn": 38,
+          "insuredBenefitAmount": 12333.00
         }],	
         "isCoordinationAccidentInsuranceEnabled":	1,
         "waitingPeriodDisabilityAnnuityChild": 12,
@@ -165,6 +168,15 @@
         "insuredBenefit": [{
           "insuredBenefitTypeCdkwn": 13,
           "insuredBenefitAmount": 4230.00
+        },{
+          "insuredBenefitTypeCdkwn": 4,
+          "insuredBenefitAmount": 1222.00
+        },{
+          "insuredBenefitTypeCdkwn": 5,
+          "insuredBenefitAmount": 3333.00
+        },{
+          "insuredBenefitTypeCdkwn": 38,
+          "insuredBenefitAmount": 12333.00
         }],	
         "isCoordinationAccidentInsuranceEnabled":	1,
         "waitingPeriodDisabilityAnnuityChild": 12,
