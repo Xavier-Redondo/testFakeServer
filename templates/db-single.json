@@ -78,7 +78,7 @@
         "retirementAssetsPurchaseEarlyRetirementEndDate":	0.00
       },
       "benefits": {
-        "insuredBenefits": [{
+        "insuredBenefit": [{
           "insuredBenefitTypeCdkwn": 13,
           "insuredBenefitAmount": 4230.00
         }, {
