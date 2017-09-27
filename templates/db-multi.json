@@ -43,7 +43,7 @@
   "coverage-information": [
     {
       "contractNumberGroupLifeFull": "contract-number-2",
-      "personalPensionPlanID": "110152817",
+      "personalPensionPlanId": "110152817",
       "validOn": "2017-06-25",
       "contractAndcompany": {
         "companyShortName": "Lerch AG",
@@ -123,7 +123,7 @@
       }]
     }, {
       "contractNumberGroupLifeFull": "contract-number-2",
-      "personalPensionPlanID": "110152818",
+      "personalPensionPlanId": "110152818",
       "validOn": "2017-06-25",
       "contractAndcompany": {
         "companyShortName": "Lerch AG",
@@ -205,7 +205,7 @@
   ],
   "development-assets": [
     {
-      "personalPensionPlanID": "110152817",
+      "personalPensionPlanId": "110152817",
       "validFrom": "2017-06-25",
       "validTo": "2017-06-25",
       "retirementAssets":	150000.00,
@@ -242,7 +242,7 @@
         }
       ]
     }, {
-      "personalPensionPlanID": "110152818",
+      "personalPensionPlanId": "110152818",
       "validFrom": "2017-06-25",
       "validTo": "2017-06-25",
       "retirementAssets":	150000.00,
