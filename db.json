@@ -16,6 +16,7 @@
       "dateOfBirth": "1977-07-15",
       "lastname":	"Neil",
       "firstname": "Gayman",
+      "language": "en",
       "registrationStatusCdkwn": 1,
       "isInsuredPersonWantsPaper": 1,
       "isInsuredPersonWantsAdvertisements":	1,
