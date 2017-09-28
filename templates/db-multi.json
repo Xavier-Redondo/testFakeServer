@@ -46,7 +46,7 @@
       "contractNumberGroupLifeFull": "contract-number-2",
       "personalPensionPlanId": "110152817",
       "validOn": "2017-06-25",
-      "contractAndcompany": {
+      "contractAndCompany": {
         "companyShortName": "Lerch AG",
         "cityName":	"Zürich",
         "numberEmployeeContributionAnnually":	12
@@ -126,7 +126,7 @@
       "contractNumberGroupLifeFull": "contract-number-2",
       "personalPensionPlanId": "110152818",
       "validOn": "2017-06-25",
-      "contractAndcompany": {
+      "contractAndCompany": {
         "companyShortName": "Lerch AG",
         "cityName":	"Zürich",
         "numberEmployeeContributionAnnually":	12
