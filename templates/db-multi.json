@@ -1,8 +1,8 @@
 {
   "pension-information": [
     {
-      "id": "622CBA3B-882E-446B-BF22-C832C3A6B3B8", 
-      "pensionPlanRegistrationUuid": "622CBA3B-882E-446B-BF22-C832C3A6B3B8", 
+      "id": "4a1989d7-b09d-4c1c-b7aa-c810eb742f6c", 
+      "pensionPlanRegistrationUuid": "4a1989d7-b09d-4c1c-b7aa-c810eb742f6c", 
       "contractNumberGroupLifeFull": "contract-number-2",
       "lineOfBusinessGroupLife": "xyz",
       "contractNumberGroupLife": "2",
@@ -43,7 +43,7 @@
   ],
   "coverage-information": [
     {
-      "contractNumberGroupLifeFull": "contract-number-2",
+      "contractNumberGroupLifeFull": "L11  95822",
       "personalPensionPlanId": "110152817",
       "validOn": "2017-06-25",
       "contractAndCompany": {
